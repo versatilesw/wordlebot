@@ -50,6 +50,8 @@ The goal of this project is to test your capabilities around implementing a web 
 Endpoint:
 POST https://interviewing.venteur.co/api/wordle
 
+This endpoint will return the next guess from the wordle bot based upon the history of all clues-word pairs.
+
 request body schema:
 
 ```tsx
@@ -133,6 +135,6 @@ We are not expecting your submission to be hosted behind a custom domain; the Az
 Email dev@venteur.co with the following:
 1. Github repo link of the project
 2. Link to the hosted web app
-3. (Optional) Paragraph on implementation choices or notes regarding the project
+3. In a few paragrpahs, explain your key design choices and implementation. Include any notes you wish to let us know about review your project.
 
 
